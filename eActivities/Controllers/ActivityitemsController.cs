@@ -46,14 +46,14 @@ namespace eActivities.Controllers
                 {
                     ListCat = _context.Category
                         .Include(a => a.Activities)
-                        .Include(a => a.Activities.Where(r=>r.AppUser.Equals(_user)))
+                        .Include(a => a.Activities.Where(r=>r.AppUser.Equals(_user) && r.ActivityName.Contains(Searchterm) || r.AppUser.Equals(_user) && r.Description.Contains(Searchterm) || r.AppUser.Contains(Searchterm) && r.AppUser.Equals(_user)))
                         .OrderBy(i => i.Id).ToList();
                 }
                 else
                 {
                     ListCat = _context.Category
                         .Include(a => a.Activities)
-                        .Include(a => a.Activities.Where(a => a.DateDebut >= begindate && a.DateFin <= enddate && a.AppUser.Equals(_user))).OrderBy(i => i.Id).ToList();
+                        .Include(a => a.Activities.Where(a => a.DateDebut >= begindate && a.DateFin <= enddate && a.AppUser.Equals(_user) || a.ActivityName.Contains(Searchterm) && a.AppUser.Equals(_user) || a.Description.Contains(Searchterm) && a.AppUser.Equals(_user) || a.AppUser.Contains(Searchterm) && a.AppUser.Equals(_user))).OrderBy(i => i.Id).ToList();
                 }
             }
             ViewBag.Categories = ListCat;

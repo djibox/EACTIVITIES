@@ -140,6 +140,8 @@ namespace eActivities.Controllers
             {
                 try
                 {
+                    var _myName = User.Identity.Name;
+                    dayTask.CreatedBy = _myName;
                     _context.Update(dayTask);
                     await _context.SaveChangesAsync();
                 }

@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\views\\activityitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\views\\daytasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\views\\daytasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\controllers\\daytaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\controllers\\daytaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,9 +60,9 @@
               "RelativeDocumentMoniker": "eActivities\\Controllers\\ActivityitemsController.cs",
               "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Controllers\\ActivityitemsController.cs",
               "RelativeToolTip": "eActivities\\Controllers\\ActivityitemsController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwCAAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwC0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:42:44.998Z",
+              "WhenOpened": "2024-09-24T18:34:21.065Z",
               "EditorCaption": ""
             },
             {
@@ -73,35 +73,35 @@
               "RelativeDocumentMoniker": "eActivities\\Views\\Activityitems\\Index.cshtml",
               "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Views\\Activityitems\\Index.cshtml",
               "RelativeToolTip": "eActivities\\Views\\Activityitems\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAB1AAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T17:26:49.538Z",
+              "WhenOpened": "2024-09-24T18:31:35.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Views\\DayTasks\\Index.cshtml",
-              "RelativeDocumentMoniker": "eActivities\\Views\\DayTasks\\Index.cshtml",
-              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Views\\DayTasks\\Index.cshtml",
-              "RelativeToolTip": "eActivities\\Views\\DayTasks\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T17:24:03.821Z",
+              "Title": "DayTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Controllers\\DayTasksController.cs",
+              "RelativeDocumentMoniker": "eActivities\\Controllers\\DayTasksController.cs",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Controllers\\DayTasksController.cs",
+              "RelativeToolTip": "eActivities\\Controllers\\DayTasksController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAmwI8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:27:46.665Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "eActivities\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "eActivities\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:15:50.876Z",
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "eActivities\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "eActivities\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T18:22:03.792Z",
               "EditorCaption": ""
             }
           ]
