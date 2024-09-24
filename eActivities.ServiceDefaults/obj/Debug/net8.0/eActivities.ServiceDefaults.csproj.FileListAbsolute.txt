@@ -1,0 +1,12 @@
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\bin\Debug\net8.0\eActivities.ServiceDefaults.deps.json
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\bin\Debug\net8.0\eActivities.ServiceDefaults.dll
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\bin\Debug\net8.0\eActivities.ServiceDefaults.pdb
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\eActivities.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\eActivities.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\eActivities.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\eActivities.ServiceDefaults.AssemblyInfo.cs
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\eActivities.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\eActivities.ServiceDefaults.dll
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\refint\eActivities.ServiceDefaults.dll
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\eActivities.ServiceDefaults.pdb
+C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Debug\net8.0\ref\eActivities.ServiceDefaults.dll

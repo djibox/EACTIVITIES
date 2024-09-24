@@ -1,0 +1,114 @@
+﻿@model IEnumerable<eActivities.Models.Activityitem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="row col-md-12">
+    <h1 class="alert alert-info alert-light">Weekly Report</h1>
+    @using (Html.BeginForm())
+    {
+        <p>
+            <div class="col-md-12">
+                <table class="table table-hover table-light table-sm">
+                    <tr>
+@*                         <td>
+                            <strong>Choisir l'année budgétaire :</strong>   @Html.DropDownList("AnneeId", null, "Sélectionne une année ", htmlAttributes: new { @class = " form-control-lg" })
+                        </td> *@
+                  @*       <td>
+                            <strong>Recherche de projet(s) qui contient le terme :</strong> @Html.TextBox("Searchterm", null, htmlAttributes: new { @class = " form-control-lg" })
+                        </td> *@
+                        <td>
+                            Begin Date : <input type="date" name="begindate" />
+                        </td>
+                        <td>
+                            End Date : <input type="date" name="enddate" />
+                        </td>
+                        <td>
+                            <input type="submit" value="Search" icon="search" />
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </p>
+    }
+    <p>
+        <a asp-action="Create" class="btn btn-primary"><i class="">Add Activity</i></a>
+    </p>
+
+    @foreach (var _element in (ViewBag.Categories) as List<eActivities.Models.Category>)
+    {
+        <p class="table-responsive alert alert-primary">@_element.CategoryName</p>
+
+        if (_element.Activities.Count > 0)
+        {
+            <table class="table table-bordered table-responsive table-hover">
+                <thead>
+                    <tr>
+                        <th>
+                            Activities
+                        </th>
+                        <th>
+                            Details
+                        </th>
+                        @*                         <th>
+                Details
+                </th> *@
+                        @*                         <th>
+                Begin Date
+                </th>
+                <th>
+                End Date
+                </th> *@
+                        <th>User</th>
+                        <th>Division</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in _element.Activities)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ActivityName)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </td>
+                            @*                             <td>
+                @Html.DisplayFor(modelItem => item.Genre.GenreName)
+                </td> *@
+                            @*                             <td>
+                @item.DateDebut?.ToString("yyyy-MM-dd")
+                </td>
+                <td>
+                @item.DateFin?.ToString("yyyy-MM-dd")
+                </td> *@
+                            <td>
+                                @Html.DisplayFor(modelItem => item.AppUser)
+                            </td>
+                            <td>TCIS0</td>
+                            <td>
+                                <div class="dropdown">
+                                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                    </button>
+                                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                        <li>
+                                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                                        </li>
+                                        <li>
+                                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                        </li>
+                                        <li>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    }
+</div>

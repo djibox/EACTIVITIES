@@ -1,0 +1,138 @@
+﻿@model IEnumerable<eActivities.Models.DayTask>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="row col-md-12">
+    <h1 class="alert alert-info">Dayly Report</h1>
+
+    @using (Html.BeginForm())
+    {
+        <p>
+            <div class="col-md-12">
+                <table class="table table-hover">
+                    <tr>
+                        @*                     <td>
+                    <strong>Choisir l'année budgétaire :</strong>   @Html.DropDownList("AnneeId", null, "Sélectionne une année ", htmlAttributes: new { @class = " form-control-lg" })
+                    </td> *@
+                        @*                     <td>
+                    <strong>Recherche de projet(s) qui contient le terme :</strong> @Html.TextBox("Searchterm", null, htmlAttributes: new { @class = " form-control-lg" })
+                    </td> *@
+                        <td>
+                            Begin Date : <input type="date" name="begindate" />
+                        </td>
+                        <td>
+                            End Date : <input type="date" name="enddate" />
+                        </td>
+                        <td>
+                            <input type="submit" value="Search" icon="search" />
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </p>
+    }
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary"><i class="">Add Task</i></a>
+    </p>
+
+    <div class="col-md-12">
+        <table class="table table-bordered table-responsive table-hover">
+            <thead>
+                <tr>
+                    <th>
+                        Tasks/Actions
+                    </th>
+                    <th>
+                        Responsible Manager
+                    </th>
+                    <th>
+                        Status
+                    </th>
+                    <th>
+                        Initial Target Date
+                    </th>
+                    <th>
+                        Revised Date
+                    </th>
+                    <th>
+                        Comments
+                    </th>
+                    @if (User.Identity.Name.Equals("i.kimari@afdb.org") || User.Identity.Name.Equals("admin.finance@afdb.org"))
+                    {
+                        <th>
+                            Users
+                        </th>
+                    }
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TaskAction)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ResponsibleManager.FullName)
+                        </td>
+                        @if (item.StatusTracker.StatusTrackerName.Equals("In Progress"))
+                        {
+                            <td class="alert alert-info">
+                                @Html.DisplayFor(modelItem => item.StatusTracker.StatusTrackerName)
+                            </td>
+                        }
+                        else
+                        {
+                            if(item.StatusTracker.StatusTrackerName.Equals("Complete"))
+                            {
+                                <td class="alert alert-light">
+                                    @Html.DisplayFor(modelItem => item.StatusTracker.StatusTrackerName)
+                                </td>
+                            }
+                            else
+                            {
+                                <td class="alert alert-danger">
+                                    @Html.DisplayFor(modelItem => item.StatusTracker.StatusTrackerName)
+                                </td>
+                            }
+                        }
+                        <td>
+                            @Html.DisplayFor(modelItem => item.InitialTargetDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.RevisedDate)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Comments)
+                        </td>
+                        @if (User.Identity.Name.Equals("i.kimari@afdb.org") || User.Identity.Name.Equals("admin.finance@afdb.org"))
+                        {
+                            <td>
+                                @Html.DisplayFor(modelItem => item.CreatedBy)
+                            </td>
+                        }
+                        <td>
+                            <div class="dropdown">
+                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                                </button>
+                                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                                    <li>
+                                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                                    </li>
+                                    <li>
+                                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                    </li>
+                                    <li>
+                                    </li>
+                                </ul>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>

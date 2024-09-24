@@ -1,0 +1,58 @@
+﻿@model eActivities.Models.Activityitem
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="alert alert-info">Create Activity</h1>
+
+<hr />
+<div class="mb-3 align-items-center">
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="ActivityName" class="control-label"> Activity Name</label>
+            <input asp-for="ActivityName" class="form-control" />
+            <span asp-validation-for="ActivityName" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="Description" class="control-label"> Description</label>
+            @* <input asp-for="Description" class="form-control" type="text"/> *@
+            <textarea asp-for="Description" cols="40" rows="5" class="form-control"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="CategoryId" class="control-label">Category</label>
+            <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="DateDebut" class="control-label">Begin Date</label>
+            <input asp-for="DateDebut" class="form-control" />
+            <span asp-validation-for="DateDebut" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group">
+            <label asp-for="DateFin" class="control-label">End Date</label>
+            <input asp-for="DateFin" class="form-control" />
+            <span asp-validation-for="DateFin" class="text-danger"></span>
+        </div>
+        <br />
+        <div class="form-group" hidden>
+            <label asp-for="GenreId" class="control-label">Genre</label>
+            <select asp-for="GenreId" class="form-control" asp-items="ViewBag.GenreId"></select>
+        </div>
+        <br />
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
