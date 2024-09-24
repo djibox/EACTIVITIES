@@ -24,7 +24,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eActivities.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42756c78bb8c668b1cfb7fb247e2fe5a939831ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4b5dc5c1e984a308d465c63f094662ec496d31e")]
 [assembly: System.Reflection.AssemblyProductAttribute("eActivities.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eActivities.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

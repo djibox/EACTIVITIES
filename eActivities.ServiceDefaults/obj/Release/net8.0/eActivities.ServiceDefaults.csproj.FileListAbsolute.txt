@@ -10,3 +10,16 @@ C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Release\
 C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Release\net8.0\refint\eActivities.ServiceDefaults.dll
 C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.pdb
 C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\obj\Release\net8.0\ref\eActivities.ServiceDefaults.dll
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\bin\Release\net8.0\eActivities.ServiceDefaults.deps.json
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\bin\Release\net8.0\eActivities.ServiceDefaults.dll
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\bin\Release\net8.0\eActivities.ServiceDefaults.pdb
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.AssemblyInfo.cs
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.sourcelink.json
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.dll
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\refint\eActivities.ServiceDefaults.dll
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\eActivities.ServiceDefaults.pdb
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\obj\Release\net8.0\ref\eActivities.ServiceDefaults.dll

@@ -12,12 +12,12 @@
             <div class="col-md-12">
                 <table class="table table-hover table-light table-sm">
                     <tr>
-                        @*                     <td>
-                    <strong>Choisir l'année budgétaire :</strong>   @Html.DropDownList("AnneeId", null, "Sélectionne une année ", htmlAttributes: new { @class = " form-control-lg" })
-                    </td> *@
-                        @*                     <td>
-                    <strong>Recherche de projet(s) qui contient le terme :</strong> @Html.TextBox("Searchterm", null, htmlAttributes: new { @class = " form-control-lg" })
-                    </td> *@
+@*                         <td>
+                            <strong>Choisir l'année budgétaire :</strong>   @Html.DropDownList("AnneeId", null, "Sélectionne une année ", htmlAttributes: new { @class = " form-control-lg" })
+                        </td> *@
+                        <td>
+                            <strong>Recherche de projet(s) qui contient le terme :</strong> @Html.TextBox("Searchterm", null, htmlAttributes: new { @class = " form-control-sm" })
+                        </td>
                         <td>
                             Begin Date : <input type="date" name="begindate" />
                         </td>
@@ -52,15 +52,15 @@
                         <th>
                             Details
                         </th>
-@*                         <th>
-                            Details
-                        </th> *@
-@*                         <th>
-                            Begin Date
-                        </th>
-                        <th>
-                            End Date
-                        </th> *@
+                        @*                         <th>
+                Details
+                </th> *@
+                        @*                         <th>
+                Begin Date
+                </th>
+                <th>
+                End Date
+                </th> *@
                         <th>User</th>
                         <th>Division</th>
                         <th></th>
@@ -76,15 +76,15 @@
                             <td>
                                 @Html.DisplayFor(modelItem => item.Description)
                             </td>
-@*                             <td>
-                                @Html.DisplayFor(modelItem => item.Genre.GenreName)
-                            </td> *@
-@*                             <td>
-                                @item.DateDebut?.ToString("yyyy-MM-dd")
-                            </td>
-                            <td>
-                                @item.DateFin?.ToString("yyyy-MM-dd")
-                            </td> *@
+                            @*                             <td>
+                @Html.DisplayFor(modelItem => item.Genre.GenreName)
+                </td> *@
+                            @*                             <td>
+                @item.DateDebut?.ToString("yyyy-MM-dd")
+                </td>
+                <td>
+                @item.DateFin?.ToString("yyyy-MM-dd")
+                </td> *@
                             <td>
                                 @Html.DisplayFor(modelItem => item.AppUser)
                             </td>

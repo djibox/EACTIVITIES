@@ -4,7 +4,7 @@ build_property.TargetFramework = net8.0
 build_property.TargetFramework = net8.0
 build_property.TargetFramework = net8.0
 build_property.ProjectTypeGuidsProperty = 
-build_property.MSBuildProjectFullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\eActivities.csproj
+build_property.MSBuildProjectFullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\eActivities.csproj
 build_property.RootNamespace = eActivities
 build_property.RootNamespace = eActivities
 build_property.RootNamespace = eActivities
@@ -32,12 +32,12 @@ build_property.UnoHotReloadMode =
 build_property.SolutionFileName = eActivities.sln
 build_property.LangName = fr-FR
 build_property.LangID = 1036
-build_property.SolutionDir = C:\Users\sarrk\source\repos\eActivities\
+build_property.SolutionDir = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\
 build_property.SolutionExt = .sln
 build_property.UseHostCompilerIfAvailable = false
 build_property.DefineExplicitDefaults = true
 build_property.Platform = AnyCPU
-build_property.SolutionPath = C:\Users\sarrk\source\repos\eActivities\eActivities.sln
+build_property.SolutionPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.sln
 build_property.SolutionName = eActivities
 build_property.VSIDEResolvedNonMSBuildProjectOutputs = <VSIDEResolvedNonMSBuildProjectOutputs />
 build_property.DevEnvDir = C:\Program Files\Microsoft Visual Studio\2022\Enterprise\Common7\IDE\
@@ -59,7 +59,7 @@ build_property.IncludeXamlNamespacesProperty = xamarin,not_win,legacy,netstdref
 build_property.XamlGeneratorAnalyzerSuppressionsProperty = csharp-618 // Ignore obsolete members warnings,csharp-105 // Ignore duplicate namespaces,csharp-1591 // Ignore missing XML comment warnings,csharp-CS8669 // Ignore annotation for nullable reference types
 build_property.UnoEnableXamlFuzzyMatching = 
 build_property.UnoXamlResourcesTrimming = 
-build_property.BaseIntermediateOutputPath = C:\Users\sarrk\source\repos\eActivities\eActivities\obj\
+build_property.BaseIntermediateOutputPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\obj\
 build_property.AssemblyName = eActivities
 build_property.UnoDefaultFont = 
 build_property.TargetPlatformMinVersion = 
@@ -76,776 +76,776 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.ProjectDir = C:\Users\sarrk\source\repos\eActivities\eActivities\
+build_property.ProjectDir = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sarrk\source\repos\eActivities\eActivities
+build_property.MSBuildProjectDirectory = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities.ServiceDefaults/eActivities.ServiceDefaults.csproj]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities.ServiceDefaults/eActivities.ServiceDefaults.csproj]
 build_metadata.AdditionalFiles.SourceItemGroup = ProjectReference
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\eActivities.ServiceDefaults.csproj
-build_metadata.AdditionalFiles.Identity = C:\Users\sarrk\source\repos\eActivities\eActivities.ServiceDefaults\eActivities.ServiceDefaults.csproj
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\eActivities.ServiceDefaults.csproj
+build_metadata.AdditionalFiles.Identity = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities.ServiceDefaults\eActivities.ServiceDefaults.csproj
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\AccessDenied.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\AccessDenied.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\AccessDenied.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ConfirmEmail.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ConfirmEmail.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ConfirmEmail.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ExternalLogin.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ExternalLogin.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ExternalLogin.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ForgotPassword.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ForgotPassword.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ForgotPassword.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Lockout.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Lockout.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Lockout.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Login.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Login.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Login.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\LoginWith2fa.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\LoginWith2fa.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\LoginWith2fa.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Logout.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Logout.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Logout.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\Email.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\Email.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\Email.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\PersonalData.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\SetPassword.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\_Layout.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\_Layout.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\_Layout.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\Register.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\Register.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\Register.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\RegisterConfirmation.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ResetPassword.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ResetPassword.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ResetPassword.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\_StatusMessage.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\_StatusMessage.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\_StatusMessage.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Account\_ViewImports.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Account\_ViewImports.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Account\_ViewImports.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/Error.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\Error.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\Error.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\Error.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\_ValidationScriptsPartial.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\_ViewImports.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\_ViewImports.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\_ViewImports.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Areas\Identity\Pages\_ViewStart.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Areas\Identity\Pages\_ViewStart.cshtml
 build_metadata.AdditionalFiles.Identity = Areas\Identity\Pages\_ViewStart.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Activityitems/Create.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Activityitems/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlpdGVtc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Activityitems\Create.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Activityitems\Create.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Activityitems\Create.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Activityitems/Delete.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Activityitems/Delete.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlpdGVtc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Activityitems\Delete.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Activityitems\Delete.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Activityitems\Delete.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Activityitems/Details.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Activityitems/Details.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlpdGVtc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Activityitems\Details.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Activityitems\Details.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Activityitems\Details.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Activityitems/Edit.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Activityitems/Edit.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlpdGVtc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Activityitems\Edit.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Activityitems\Edit.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Activityitems\Edit.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Activityitems/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Activityitems/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlpdGVtc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Activityitems\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Activityitems\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Activityitems\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Categories/Create.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Categories\Create.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Categories\Create.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Categories\Create.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Categories/Delete.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Categories\Delete.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Categories\Delete.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Categories\Delete.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Categories/Details.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Categories\Details.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Categories\Details.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Categories\Details.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Categories/Edit.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Categories\Edit.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Categories\Edit.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Categories\Edit.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Categories/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Categories\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Categories\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Categories\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Dashboard/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Dashboard\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Dashboard\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Dashboard\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/DayTasks/Create.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/DayTasks/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF5VGFza3NcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\DayTasks\Create.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\DayTasks\Create.cshtml
 build_metadata.AdditionalFiles.Identity = Views\DayTasks\Create.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/DayTasks/Delete.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/DayTasks/Delete.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF5VGFza3NcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\DayTasks\Delete.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\DayTasks\Delete.cshtml
 build_metadata.AdditionalFiles.Identity = Views\DayTasks\Delete.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/DayTasks/Details.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/DayTasks/Details.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF5VGFza3NcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\DayTasks\Details.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\DayTasks\Details.cshtml
 build_metadata.AdditionalFiles.Identity = Views\DayTasks\Details.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/DayTasks/Edit.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/DayTasks/Edit.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF5VGFza3NcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\DayTasks\Edit.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\DayTasks\Edit.cshtml
 build_metadata.AdditionalFiles.Identity = Views\DayTasks\Edit.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/DayTasks/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/DayTasks/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF5VGFza3NcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\DayTasks\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\DayTasks\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\DayTasks\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Genres/Create.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Genres/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Genres\Create.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Genres\Create.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Genres\Create.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Genres/Delete.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Genres/Delete.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Genres\Delete.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Genres\Delete.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Genres\Delete.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Genres/Details.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Genres/Details.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Genres\Details.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Genres\Details.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Genres\Details.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Genres/Edit.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Genres/Edit.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Genres\Edit.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Genres\Edit.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Genres\Edit.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Genres/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Genres/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Genres\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Genres\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Genres\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Home/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Home\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Home\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Home\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Home/Privacy.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Home\Privacy.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Home\Privacy.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Home\Privacy.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/ResponsibleManagers/Create.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/ResponsibleManagers/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2libGVNYW5hZ2Vyc1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\ResponsibleManagers\Create.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\ResponsibleManagers\Create.cshtml
 build_metadata.AdditionalFiles.Identity = Views\ResponsibleManagers\Create.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/ResponsibleManagers/Delete.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/ResponsibleManagers/Delete.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2libGVNYW5hZ2Vyc1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\ResponsibleManagers\Delete.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\ResponsibleManagers\Delete.cshtml
 build_metadata.AdditionalFiles.Identity = Views\ResponsibleManagers\Delete.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/ResponsibleManagers/Details.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/ResponsibleManagers/Details.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2libGVNYW5hZ2Vyc1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\ResponsibleManagers\Details.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\ResponsibleManagers\Details.cshtml
 build_metadata.AdditionalFiles.Identity = Views\ResponsibleManagers\Details.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/ResponsibleManagers/Edit.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/ResponsibleManagers/Edit.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2libGVNYW5hZ2Vyc1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\ResponsibleManagers\Edit.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\ResponsibleManagers\Edit.cshtml
 build_metadata.AdditionalFiles.Identity = Views\ResponsibleManagers\Edit.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/ResponsibleManagers/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/ResponsibleManagers/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzcG9uc2libGVNYW5hZ2Vyc1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\ResponsibleManagers\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\ResponsibleManagers\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\ResponsibleManagers\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Shared/Error.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Shared\Error.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Shared\Error.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Shared\Error.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Shared\_LoginPartial.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Shared\_LoginPartial.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Shared\_LoginPartial.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Shared\_ValidationScriptsPartial.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Shared\_ValidationScriptsPartial.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Shared\_ValidationScriptsPartial.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers1/Create.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers1/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnMxXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers1\Create.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers1\Create.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers1\Create.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers1/Delete.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers1/Delete.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnMxXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers1\Delete.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers1\Delete.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers1\Delete.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers1/Details.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers1/Details.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnMxXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers1\Details.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers1\Details.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers1\Details.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers1/Edit.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers1/Edit.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnMxXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers1\Edit.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers1\Edit.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers1\Edit.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers1/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers1/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnMxXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers1\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers1\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers1\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers/Create.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnNcQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers\Create.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers\Create.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers\Create.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers/Delete.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers/Delete.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnNcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers\Delete.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers\Delete.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers\Delete.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers/Details.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers/Details.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnNcRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers\Details.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers\Details.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers\Details.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers/Edit.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers/Edit.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnNcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers\Edit.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers\Edit.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers\Edit.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/StatusTrackers/Index.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/StatusTrackers/Index.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdHVzVHJhY2tlcnNcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\StatusTrackers\Index.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\StatusTrackers\Index.cshtml
 build_metadata.AdditionalFiles.Identity = Views\StatusTrackers\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/_ViewImports.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\_ViewImports.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\_ViewImports.cshtml
 build_metadata.AdditionalFiles.Identity = Views\_ViewImports.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/_ViewStart.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\_ViewStart.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\_ViewStart.cshtml
 build_metadata.AdditionalFiles.Identity = Views\_ViewStart.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sarrk/source/repos/eActivities/eActivities/Views/Shared/_Layout.cshtml]
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\source\repos\eActivities\eActivities\Views\Shared\_Layout.cshtml
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Shared\_Layout.cshtml
 build_metadata.AdditionalFiles.Identity = Views\Shared\_Layout.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = b-c972zea9uj

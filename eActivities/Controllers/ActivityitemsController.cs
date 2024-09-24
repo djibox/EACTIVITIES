@@ -20,7 +20,7 @@ namespace eActivities.Controllers
         }
 
         // GET: Activityitems
-        public async Task<IActionResult> Index(DateTime? begindate, DateTime? enddate)
+        public async Task<IActionResult> Index(DateTime? begindate, DateTime? enddate, string Searchterm="")
         {
             var _user = User.Identity.Name;
             var ListCat = new List<Category>();
@@ -28,13 +28,16 @@ namespace eActivities.Controllers
             {
                 if (begindate == null || enddate == null)
                 {
-                    ListCat = _context.Category.Include(a => a.Activities).OrderBy(i => i.Id).ToList();
+                    ListCat = _context.Category
+                        .Include(a => a.Activities)
+                        .Include(a => a.Activities.Where(s=>s.ActivityName.Contains(Searchterm) || s.Description.Contains(Searchterm) || s.AppUser.Contains(Searchterm)))
+                        .OrderBy(i => i.Id).ToList();
                 }
                 else
                 {
                     ListCat = _context.Category
                         .Include(a => a.Activities)
-                        .Include(a => a.Activities.Where(a => a.DateDebut >= begindate && a.DateFin <= enddate)).OrderBy(i => i.Id).ToList();
+                        .Include(a => a.Activities.Where(a => a.DateDebut >= begindate && a.DateFin <= enddate || a.ActivityName.Contains(Searchterm) || a.Description.Contains(Searchterm) || a.AppUser.Contains(Searchterm))).OrderBy(i => i.Id).ToList();
                 }
             }
             else 
