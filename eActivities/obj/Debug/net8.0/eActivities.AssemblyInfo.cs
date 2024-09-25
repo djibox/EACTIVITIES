@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eActivities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a30b588740f6f813a1e79eb2ae0b2646dcbd7cce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db4d818258e34107ba9433901ee11037de776196")]
 [assembly: System.Reflection.AssemblyProductAttribute("eActivities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eActivities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
