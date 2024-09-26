@@ -7,5 +7,6 @@ namespace eActivities.Models
     {
         public int Id { get; set; }
         public string DivisionName { get; set; }
+        public ICollection<ApplicationUser> Users { get; set; }
     }
 }

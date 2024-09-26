@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using eActivities.Data;
 
@@ -11,9 +12,11 @@ using eActivities.Data;
 namespace eActivities.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240925081730_UserAdd")]
+    partial class UserAdd
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -247,10 +250,7 @@ namespace eActivities.Migrations
                     b.Property<string>("AppUser")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("ApplicationUserId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("ApplicationUserId1")
+                    b.Property<string>("ApplicationUserId")
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("CategoryId")
@@ -268,9 +268,12 @@ namespace eActivities.Migrations
                     b.Property<int?>("GenreId")
                         .HasColumnType("int");
 
+                    b.Property<int>("UserResp")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
-                    b.HasIndex("ApplicationUserId1");
+                    b.HasIndex("ApplicationUserId");
 
                     b.HasIndex("CategoryId");
 
@@ -467,7 +470,7 @@ namespace eActivities.Migrations
                 {
                     b.HasOne("eActivities.Models.ApplicationUser", "ApplicationUser")
                         .WithMany()
-                        .HasForeignKey("ApplicationUserId1");
+                        .HasForeignKey("ApplicationUserId");
 
                     b.HasOne("eActivities.Models.Category", "Category")
                         .WithMany("Activities")

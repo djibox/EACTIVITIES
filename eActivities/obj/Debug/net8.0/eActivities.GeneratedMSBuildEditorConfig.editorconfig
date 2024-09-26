@@ -598,6 +598,51 @@ build_metadata.AdditionalFiles.Identity = Views\DayTasks\Index.cshtml
 build_metadata.AdditionalFiles.XamlRuntime = 
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Divisions/Create.cshtml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Divisions\Create.cshtml
+build_metadata.AdditionalFiles.Identity = Views\Divisions\Create.cshtml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Divisions/Delete.cshtml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Divisions\Delete.cshtml
+build_metadata.AdditionalFiles.Identity = Views\Divisions\Delete.cshtml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Divisions/Details.cshtml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Divisions\Details.cshtml
+build_metadata.AdditionalFiles.Identity = Views\Divisions\Details.cshtml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Divisions/Edit.cshtml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Divisions\Edit.cshtml
+build_metadata.AdditionalFiles.Identity = Views\Divisions\Edit.cshtml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Divisions/Index.cshtml]
+build_metadata.AdditionalFiles.SourceItemGroup = 
+build_metadata.AdditionalFiles.Link = 
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGl2aXNpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.FullPath = C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\Views\Divisions\Index.cshtml
+build_metadata.AdditionalFiles.Identity = Views\Divisions\Index.cshtml
+build_metadata.AdditionalFiles.XamlRuntime = 
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sarrk/Source/Repos/djibox/EACTIVITIES/eActivities/Views/Genres/Create.cshtml]
 build_metadata.AdditionalFiles.SourceItemGroup = 
 build_metadata.AdditionalFiles.Link = 

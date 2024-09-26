@@ -1,7 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\controllers\\divisionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\controllers\\divisionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\models\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\models\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\models\\activityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\models\\activityitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|c:\\users\\sarrk\\source\\repos\\djibox\\eactivities\\eactivities\\migrations\\20240925081730_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5A80628-16C5-4064-A1B4-AEB84ADB0BF5}|eActivities\\eActivities.csproj|solutionrelative:eactivities\\migrations\\20240925081730_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +79,139 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwGQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:05:35.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAFMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:03:52.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "eActivities\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T16:03:49.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DivisionsController.cs",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Controllers\\DivisionsController.cs",
+              "RelativeDocumentMoniker": "eActivities\\Controllers\\DivisionsController.cs",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Controllers\\DivisionsController.cs",
+              "RelativeToolTip": "eActivities\\Controllers\\DivisionsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:02:30.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Models\\Division.cs",
+              "RelativeDocumentMoniker": "eActivities\\Models\\Division.cs",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Models\\Division.cs",
+              "RelativeToolTip": "eActivities\\Models\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:01:28.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "eActivities\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-25T15:56:35.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240925081730_UserAdd.cs",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Migrations\\20240925081730_UserAdd.cs",
+              "RelativeDocumentMoniker": "eActivities\\Migrations\\20240925081730_UserAdd.cs",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Migrations\\20240925081730_UserAdd.cs",
+              "RelativeToolTip": "eActivities\\Migrations\\20240925081730_UserAdd.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:17:31.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\appsettings.json",
+              "RelativeDocumentMoniker": "eActivities\\appsettings.json",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\appsettings.json",
+              "RelativeToolTip": "eActivities\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T08:16:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "eActivities\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "eActivities\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-25T08:16:04.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Activityitem.cs",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Models\\Activityitem.cs",
+              "RelativeDocumentMoniker": "eActivities\\Models\\Activityitem.cs",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\eActivities\\Models\\Activityitem.cs",
+              "RelativeToolTip": "eActivities\\Models\\Activityitem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T08:11:20.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\sarrk\\source\\repos\\djibox\\EACTIVITIES\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-25T08:08:31.736Z"
             }
           ]
         }

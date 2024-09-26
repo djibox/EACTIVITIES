@@ -963,3 +963,8 @@ C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\obj\Debug\net8.0\refi
 C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\obj\Debug\net8.0\eActivities.pdb
 C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\obj\Debug\net8.0\eActivities.genruntimeconfig.cache
 C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\obj\Debug\net8.0\ref\eActivities.dll
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\bin\Debug\net8.0\eActivities\Views\Divisions\Create.cshtml
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\bin\Debug\net8.0\eActivities\Views\Divisions\Delete.cshtml
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\bin\Debug\net8.0\eActivities\Views\Divisions\Details.cshtml
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\bin\Debug\net8.0\eActivities\Views\Divisions\Edit.cshtml
+C:\Users\sarrk\Source\Repos\djibox\EACTIVITIES\eActivities\bin\Debug\net8.0\eActivities\Views\Divisions\Index.cshtml

@@ -19,4 +19,6 @@ public DbSet<eActivities.Models.Activityitem> Activityitem { get; set; }
 public DbSet<eActivities.Models.StatusTracker> StatusTrackers { get; set; }
 public DbSet<eActivities.Models.ResponsibleManager> ResponsibleManagers { get; set; }
 public DbSet<eActivities.Models.DayTask> DayTask { get; set; }
+
+public DbSet<eActivities.Models.Division> Division { get; set; }
 }
